@@ -1,2 +1,2 @@
-Visulaizing and Predicting Salaries Using RandomForest and other different model.
-Comparing result of different models.
+Visualizing and Predicting Salaries Using  Gradient Boosting Regressor, RandomForest, and other models.
+Comparing results of different models.
